@@ -6,6 +6,6 @@
 ## Demo
 Trained on KITTI, evaluated on our own dataset:
 
-![Our evaluation video](doc/test_seq6_train_1109_synced_w_unsynced_imu_hires_convlstm_all_1_stack.gif)
+![GIF of our evaluation video](doc/test_seq6_train_1109_synced_w_unsynced_imu_hires_convlstm_all_1_stack.gif)
 
-Our you can watch our HEVC encoded video: [Link](doc/test_seq6_train_1109_synced_w_unsynced_imu_hires_convlstm_all_1_stack_hevc.mp4)
+Instead of the GIF you can watch our HEVC encoded video: [Link](doc/test_seq6_train_1109_synced_w_unsynced_imu_hires_convlstm_all_1_stack_hevc.mp4)
