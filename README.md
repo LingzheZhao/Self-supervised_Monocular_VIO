@@ -1,7 +1,7 @@
 **Coming soon**: The source code is still being prepared and documented and will be released shortly.
 
 # Self-supervised Monocular VIO
-(Repo for the code of Lingzhe Zhao, Tianyu Xiang, Zhuping Wang*, "A Robost Self-supervised Monocular Visual-Inertial Odometry System")
+(Repo for the code of "A Robost Self-supervised Monocular Visual-Inertial Odometry System")
 
 ## Demo
 Trained on KITTI, evaluated on our own dataset:
