@@ -4,11 +4,19 @@
 (Repo for the code of "A Robost Self-supervised Monocular Visual-Inertial Odometry System")
 
 ## Demo
-Trained on KITTI, evaluated on our own dataset:
 
-![GIF of our evaluation video](doc/test_seq6_train_1109_synced_w_unsynced_imu_hires_convlstm_all_1_stack.gif)
+Evaluation on our Bike dataset:
 
-Instead of the GIF you can watch our HEVC encoded video: [Link](doc/test_seq6_train_1109_synced_w_unsynced_imu_hires_convlstm_all_1_stack_hevc.mp4)
+[[Video]](doc/demo.mp4)
 
 ## Dataset
-Our testing data sequence is available here: [百度网盘：提取码1q54](https://pan.baidu.com/s/1eMR70yY-qIJFI83iJ5FTcg) [Mega Drive](https://mega.nz/file/olc1RQKA#DJr2yO3_32FgPUnUuf7bY5rCTg5CKQJZQXhbulUCG9I)
+
+Raw data of our Bike dataset
+
+[[Mega Drive]](https://mega.nz/file/c9tkgbQQ#lfKwQCec2de_xJn8sGsNQXpAGGYjAiAbd7nBRAvtTi8)
+[【百度网盘】](https://pan.baidu.com/s/1U0-6aNUIDvPmLqIqaTZpXQ?pwd=41es) 
+
+Our Bike dataset converted to [SfMLearner](https://github.com/tinghuiz/SfMLearner)'s format:
+
+[[Mega Drive]](https://mega.nz/file/ZgNGnR4b#uBfh4PycX97xsnsGqlf1ytFaNrp-udy_fgR-DhvqZeE)
+[【百度网盘】](https://pan.baidu.com/s/1MsjpWBe1bLK3b_fNQISVBA?pwd=5yv3)
