@@ -7,6 +7,8 @@
 
 Evaluation on our Bike dataset:
 
+![GIF preview](doc/demo.gif)
+
 [[Video]](doc/demo.mp4)
 
 ## Dataset
